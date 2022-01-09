@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Zhong | CASA Urban Mobility Group</title>
+    <link>/author/chen-zhong/</link>
+      <atom:link href="/author/chen-zhong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Zhong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} CASA Urban Mobility Group </copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/chen-zhong/avatar_hu063fffc7246729354a8d459c168929ee_52229_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chen Zhong</title>
+      <link>/author/chen-zhong/</link>
+    </image>
+    
+    <item>
+      <title>Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)</title>
+      <link>/post/realtrips/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/realtrips/</guid>
+      <description>&lt;p&gt;realTRIPS is an ERC funded five-year project running from Feb 2021 – Feb 2026.&lt;/p&gt;
+&lt;p&gt;realTRIPS aims to open a new avenue of research in urban mobility analysis using emerging automatic data by developing an analytical and modelling framework, particularly addressing variability across spatial-temporal scales and of population groups. The proposed framework will leverage key concepts from uncertainty in spatial analysis, time geography, land use transport modelling, and urban planning. Under this theoretical framework, new variability measures will be developed and integrated as a function of space and time into operational urban models. These urban models will generate a more accurate evaluation of land use and transport impacts on people’s mobility patterns in terms of the affected area and effect time. Case studies in three typical urban contexts (i.e. London, Shenzhen, and Nairobi) will be explored to demonstrate the feasibility and generic applicability of the proposed framework, analytical methods and urban models.&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://smartcityanalysis.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://smartcityanalysis.com/index.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resolving urban mobility networks from individual travel graphs using massive-scale mobile phone tracking data</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

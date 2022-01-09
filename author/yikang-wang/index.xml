@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yikang Wang | CASA Urban Mobility Group</title>
+    <link>/author/yikang-wang/</link>
+      <atom:link href="/author/yikang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yikang Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} CASA Urban Mobility Group </copyright>
+    <image>
+      <url>/author/yikang-wang/avatar_hu6167e674a021b32a603c7bf3a111dc70_26581_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yikang Wang</title>
+      <link>/author/yikang-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

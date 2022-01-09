@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | CASA Urban Mobility Group</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} CASA Urban Mobility Group </copyright><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu95430cf5e7d5f4c1b1a0d76280b5b84e_68582_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

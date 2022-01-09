@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Research Projects | CASA Urban Mobility Group</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current Research Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} CASA Urban Mobility Group </copyright><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu95430cf5e7d5f4c1b1a0d76280b5b84e_68582_512x512_fill_lanczos_center_3.png</url>
+      <title>Current Research Projects</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>SIMITRI Project</title>
+      <link>/post/simitri/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/post/simitri/</guid>
+      <description>&lt;p&gt;The research project SIMETRI (SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance) brings together researchers from University College London, Birkbeck University of London, King’s College London, Vrije Universiteit Amsterdam, Shenzhen University, Shenzhen Institute of Research and Innovation, The University of Hong Kong, and Sun Yat-sen University.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;SIMETRI will develop a world-class science platform relevant to political decision-makers responsible for housing, transport, employment and urban development in the world’s biggest mega-city region, the Pearl River Delta Greater Bay Area. The platform integrates work on inequality indicators and predicting future land use and transport developed in western Europe in London and the Randstad with related work in Shenzhen and Guangzhou, producing a system that will use state-of-the-art simulation models, big data from routine transport, and new ways of using information technology for participatory governance.
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Duration and funding&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Simetri runs fron March 2019 to March 2022, and is funded by the NSFC JPI Urban Europe programme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)</title>
+      <link>/post/realtrips/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/realtrips/</guid>
+      <description>&lt;p&gt;realTRIPS is an ERC funded five-year project running from Feb 2021 – Feb 2026.&lt;/p&gt;
+&lt;p&gt;realTRIPS aims to open a new avenue of research in urban mobility analysis using emerging automatic data by developing an analytical and modelling framework, particularly addressing variability across spatial-temporal scales and of population groups. The proposed framework will leverage key concepts from uncertainty in spatial analysis, time geography, land use transport modelling, and urban planning. Under this theoretical framework, new variability measures will be developed and integrated as a function of space and time into operational urban models. These urban models will generate a more accurate evaluation of land use and transport impacts on people’s mobility patterns in terms of the affected area and effect time. Case studies in three typical urban contexts (i.e. London, Shenzhen, and Nairobi) will be explored to demonstrate the feasibility and generic applicability of the proposed framework, analytical methods and urban models.&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://smartcityanalysis.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://smartcityanalysis.com/index.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
